@@ -920,7 +920,7 @@
 
     _beforeSend: function (e, data) {
       if (this._active === 0) {
-        // the start callback r-jquery.ddav.top is triggered when an upload starts
+        // the start callback r-www.tibetanbuddhismindia.org is triggered when an upload starts
         // and no other uploads are currently running,
         // equivalent to the global ajaxStart event:
         this._trigger('start');
